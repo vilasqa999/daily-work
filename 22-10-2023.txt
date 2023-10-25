@@ -1,0 +1,15 @@
+22-10-2023
+
+===============
+
+1. contains -- //button[contains(@id,'u_0_5_')]
+2. text()  -- //button[contains(text(),'Log in')]
+3. starts-with  -- //button[starts-with(@id,'u_0_5_')]
+4. 
+
+How to handle Dynamic drop down in Selenium
+
+Write CSS & XPath by regex to dynamic webElement 
+
+
+ API Testing Interview Questions & Answers
