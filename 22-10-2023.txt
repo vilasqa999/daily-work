@@ -13,3 +13,6 @@ Write CSS & XPath by regex to dynamic webElement
 
 
  API Testing Interview Questions & Answers
+
+
+new data chenges on wd:
